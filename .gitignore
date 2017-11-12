@@ -1,0 +1,7 @@
+functions/python/*.dist-info
+functions/python/certifi
+functions/python/chardet
+functions/python/idna
+functions/python/requests
+functions/python/urllib3
+project.json

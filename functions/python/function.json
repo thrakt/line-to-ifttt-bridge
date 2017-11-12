@@ -1,0 +1,10 @@
+{
+  "memory": 128,
+  "timeout": 5,
+  "environment": {
+    "IFTTT_URL": ""
+  },
+  "hooks":{
+    "build": "pip install -r requirements.txt -t ."
+  }
+}
